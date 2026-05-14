@@ -1,8 +1,8 @@
 ## 📂 Arquivos
 
 ### 🧮 Calculadora básica
-→ Realiza operações básicas (+, -, /, *)
-→ O usuário digita dois números e escolhe a operação desejada.
+- Realiza operações básicas (+, -, /, *)
+- O usuário digita dois números e escolhe a operação desejada.
 
 Arquivo:
 - calculadora.py
@@ -17,8 +17,8 @@ Arquivo:
 
 
 ### 🛒 Lista de compras
-→ Permite visualizar, adicionar e remover itens da lista.
-→ Utiliza menu interativo.
+- Permite visualizar, adicionar e remover itens da lista.
+- Utiliza menu interativo.
 
 Arquivo:
 - compras.py
@@ -30,8 +30,8 @@ Arquivo:
 - lista.py
 
 ### 🎲 Jogo de adivinhação
-→ O computador escolhe um número aleatório.
-→ O usuário tenta adivinhar o número correto.
+- O computador escolhe um número aleatório.
+- O usuário tenta adivinhar o número correto.
 
 Arquivo:
 - adivinha.py
