@@ -6,12 +6,15 @@ print (compras)
 
 print ("Lista 2")
 print ("Vamos adicionar UMA fruta a lista: ")
-compras.append ("Maçã")
+fruta = input("Digite uma fruta: ")
+compras.append(fruta)
 print (compras)
 
 print ("Lista 3")
-print ("Vamos adicionar várias frutas a lista: ")
-compras.extend (["Banana","Uva","Abacaxi","Pera","Morango","Abacate"])
-print (compras)
+print ("Vamos adicionar várias frutas e vegetais a lista: ")
+fruta = input("Digite suas frutas (separadas por vírgula): ")
+frutas = fruta.split(",")
+compras.extend(frutas)
+print(compras)
 
 
