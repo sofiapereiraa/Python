@@ -9,8 +9,8 @@ Arquivo:
 
 
 ### 👤 Verificador de idade
-→ O usuário digita a idade.
-→ O programa informa se é menor de idade, maior de idade ou idoso.
+- O usuário digita a idade.
+- O programa informa se é menor de idade, maior de idade ou idoso.
 
 Arquivo:
 - idade.py
