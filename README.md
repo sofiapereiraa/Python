@@ -35,4 +35,16 @@ Arquivo:
 
 Arquivo:
 - adivinha.py
+  
+---
+
+### Sistema de Padaria
+Sistema desenvolvido para simular o atendimento de uma padaria, permitindo consultar o cardápio e realizar compras.
+ 
+- Visualização do cardápio
+- Seleção de produtos
+- Definição da quantidade
+- Cálculo do valor total da compra
+- Menu interativo
+- Validação das opções do menu
 
